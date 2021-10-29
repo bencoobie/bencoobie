@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kubilay
-- 👀 I’m interested in Android
+- 👀 I’m interested in Mobile Application Developing.
+- -Android Dev wannabe.
 
 
 <!---
