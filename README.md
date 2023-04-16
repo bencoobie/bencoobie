@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kubilay
-- 👀 I’m interested in Mobile Application Developing.
-- -Android Dev wannabe.
+- 👀 I’m interested in Backend Development
+-Currently Learning & Working on Javascript Nodejs
 
 
 <!---
