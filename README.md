@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kubilay
 - 👀 I’m interested in Backend Development
--Currently Learning & Working on Javascript Nodejs
+- Currently Learning & Working on Javascript Nodejs
+
 
 
 <!---
